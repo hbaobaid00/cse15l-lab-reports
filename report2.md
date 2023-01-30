@@ -9,4 +9,9 @@ Here are what the results look like for the code:\
 ![StringServer4](https://user-images.githubusercontent.com/122493451/215415760-0b5fc190-6ce8-460e-8483-84065af07cb4.png)\
 If the path is not typed out as intended, there will be a 404 error not found that is shown on the screen. However, when you do type the path correctly. Your message will be shown on the screen and a new line will be entered for the next message. If you re-enter the same path in the URL, your message will be printed twice. It will keep printing the same message repeatedly. If you do not type a path at all. A 404 error message will be seen on the screen just like when you type the path incorrectly. 
 
-
+One failure-inducing input from the buggy program is as follows:\
+public void testReversed(){\
+|     int[] input1 = {3, 7, 10};\
+|      asserArrayEquals(new int[]{10, 6, 5, 3}, ArrayExamples.reversed(input1));\
+  }\
+  Helo
