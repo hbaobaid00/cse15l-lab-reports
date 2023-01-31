@@ -38,7 +38,7 @@ The before and after of the code would be:
 
 The code fixes the bug because it creates a proper new template for the arr array. By doing this, you can fully copy the array array into newArray without overwriting the original array. Also, we return the proper array back. The before would return the arr instead of newArray. The previous code block would only reverse half of the array and not the whole array because arr would keep changing. 
 
-One thing I really enjoyed about this lab was that creating a web server with the add-message pathway. This helped me understand how urls work in java, and it gives me more practice and experience with development. I found this very fun but also challenging at the same time.
+One thing I really enjoyed about this lab was that creating a web server with the add-message pathway. This helped me understand how urls work in java, and it gives me more practice and experience with development. I found this very fun but also challenging at the same time. It gives me a better understanding on how websites are created and it makes me appreciate the process much more!
 
 
 
